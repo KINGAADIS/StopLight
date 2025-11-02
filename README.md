@@ -4,7 +4,7 @@
 _A microcontroller-based traffic light simulation using MPLAB X and PIC18F4620_
 
 ## 📌 Project Overview
-This project implements a state-based traffic light controller for a 4-way intersection using a PIC18F4620 microcontroller. It simulates not only standard green/yellow/red transitions but also integrates pedestrian crosswalk controls, left-turn signaling, night mode, a TFT full-color display, and audible alerts — making it a rich embedded systems learning experience.
+This project implements a state-based traffic light controller for a 4-way intersection using a PIC18F4620 microcontroller. It simulates not only standard green/yellow/red transitions but also integrates pedestrian crosswalk controls, left-turn signaling, night mode, a TFT full-color display, and audible alerts.
 
 <img src="docs/demo.jpg" width="400">
 
